@@ -9,7 +9,7 @@ This repository contains a simple responsive website.
 
 ## Usage
 Download the repository and open `index.html` file in your browser.
-Access online [HERE](https://sosnovska.github.io/Restaurant-website/).
+Access online [HERE](https://sosnovska.github.io/restaurant-website/).
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
